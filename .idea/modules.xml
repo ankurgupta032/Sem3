@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ankur/Ankur.iml" filepath="$PROJECT_DIR$/Ankur/Ankur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Efinalpackage/Efinalpackage.iml" filepath="$PROJECT_DIR$/Efinalpackage/Efinalpackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mypackage/Mypackage.iml" filepath="$PROJECT_DIR$/Mypackage/Mypackage.iml" />
+    </modules>
+  </component>
+</project>
